@@ -98,5 +98,3 @@ def schnellerweg():
     perfekte_zahlen_mit_formel(100)
 
     print("Fertig!")
-
-schnellerweg()
